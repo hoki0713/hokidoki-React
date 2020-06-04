@@ -5,8 +5,9 @@ const Homepage = () => (
   <>
     <h1>Welcome</h1>
     <Image
-      src="https://lh3.googleusercontent.com/proxy/8DxdsuXflhfPKBQa2d64sIiut3ggeZwkfYvEyV2Pyx6QEj_-c6FR1NEUE7MClx6Xvhi5f06F_Q-sknDCwiadCTQmJR0pVxMtwIqU6GM0o9JrJ5wsXFzt"
+      src="https://storage.googleapis.com/petbacker/images/blog/2017/dog-and-cat-cover.jpg"
       alt="Main page's image"
+      fluid 
     />
   </>
 );
