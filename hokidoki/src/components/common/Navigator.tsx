@@ -36,7 +36,7 @@ function Navigator() {
                 <Route exact path='/chat' component={ChatBot}/>
                 <Route exact path='/' component={Home}/>
                 <Route exact path="/greeting">
-                    <Hello name={"홍길동"}/>
+                    <Hello />
                 </Route>
                 <Route exact path="/counter">
                     <Counter startNumber={0}/>
